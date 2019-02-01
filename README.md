@@ -1,7 +1,7 @@
 ## Analisis espacial # 
 
 Authors: orden por espeficicar* 
-Ana Wegier 1* ✚, 
+Ana Wegier 1*, 
 Valeria Alavez1, 
 Javier Pérez-López12, 
 Gonzalo Martinez Herrera32, 
